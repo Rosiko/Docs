@@ -9,12 +9,12 @@
   * [Archived Version - Old Version](rosikocoin/roadmap/archived-version-old-version/README.md)
     * [Timeline (Alpha Version)](rosikocoin/roadmap/archived-version-old-version/timeline-alpha-version.md)
     * [Timeline (Alpha Updated Version)](rosikocoin/roadmap/archived-version-old-version/timeline-alpha-updated-version.md)
-  * [Timeline (Beta Version)](rosikocoin/roadmap/timeline-beta-version.md)
+  * [Roadmap (Beta Version)](rosikocoin/roadmap/roadmap-beta-version.md)
 * [💎 Tokenomics](rosikocoin/tokenomics/README.md)
   * [Archived Version - Old Version](rosikocoin/tokenomics/archived-version-old-version/README.md)
     * [Info, Ecosystem Wallet & Devs Specs (Alpha Version)](rosikocoin/tokenomics/archived-version-old-version/info-ecosystem-wallet-and-devs-specs-alpha-version.md)
     * [Info, Ecosystem Wallet & Devs Specs (Alpha Updated Version)](rosikocoin/tokenomics/archived-version-old-version/info-ecosystem-wallet-and-devs-specs-alpha-updated-version.md)
-  * [Info, Ecosystem Wallet & Devs Specs (Beta Version)](rosikocoin/tokenomics/info-ecosystem-wallet-and-devs-specs-beta-version.md)
+  * [Tokenomics (Beta Version)](rosikocoin/tokenomics/tokenomics-beta-version.md)
 
 ## 😋 NFT&#x20;
 
