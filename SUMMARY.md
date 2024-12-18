@@ -17,7 +17,8 @@
     * [Info, Ecosystem Wallet & Devs Specs (Alpha Updated Version)](rosikocoin/tokenomics/archived-version-old-version/info-ecosystem-wallet-and-devs-specs-alpha-updated-version.md)
     * [Tokenomics (Beta Version)](rosikocoin/tokenomics/archived-version-old-version/tokenomics-beta-version.md)
     * [Tokenomics (Beta Version 2.00)](rosikocoin/tokenomics/archived-version-old-version/tokenomics-beta-version-2.00.md)
-  * [Tokenomics (Beta Version 2.01)](rosikocoin/tokenomics/tokenomics-beta-version-2.01.md)
+    * [Tokenomics (Beta Version 2.01)](rosikocoin/tokenomics/archived-version-old-version/tokenomics-beta-version-2.01.md)
+  * [💎 Tokenomics (Beta Version 2.10)](rosikocoin/tokenomics/tokenomics-beta-version-2.10.md)
 
 ## 😋 NFT&#x20;
 

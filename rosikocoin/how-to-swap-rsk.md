@@ -27,9 +27,9 @@ _If you’re new to AMMs,_ you can learn more [here](https://chain.link/educatio
 
 Visit our website and click on **"SWAP"** to go directly to the Raydium AMM interface.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The first time you access Raydium, you’ll be prompted to accept a disclaimer for the open-source interface.
 

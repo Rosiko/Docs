@@ -38,7 +38,7 @@ A part of the tokens owned by the Authority address will probably be added later
 
 At this moment this wallet is the second holder immediately after the creator wallet
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt="" width="203"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt="" width="203"><figcaption></figcaption></figure>
 
 Since the project is still in the development phase, the creator still owns the largest number of Tokens, but it is expected that during the development of smart contracts, the game and also creating new LiquidityPools on DEX and CEX, the creator wallet should give up the majority of tokens.
 
@@ -46,7 +46,7 @@ Below we detail some steps that will help with this change
 
 ## NFT & SmartContract
 
-See [Roadmap](../roadmap/) section to find out when it will be ready, for now we go ahead by self-financing.
+See [Roadmap](../../roadmap/) section to find out when it will be ready, for now we go ahead by self-financing.
 
 We have decided that for the management of smart contracts, we will rely on NFTs.&#x20;
 
