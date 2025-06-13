@@ -57,23 +57,41 @@ Over time, additional tokens from the authority wallet may be transferred here, 
 
 ## NFT & SmartContract
 
-Our [roadmap ](../roadmap/)includes leveraging NFTs to automate certain aspects of token distribution and rewards. While we’re currently self-financing and still in development, here’s what we’re planning:
-
-1. **DEVS Collection** :man\_technologist::woman\_technologist::\
-   A limited collection (estimated 10-20 NFTs) will be privately gifted to our developers. Each NFT and its transaction will be documented for complete transparency. \
-   Holding these NFTs represents a form of ongoing “payment” or reward for the developers who helped turn our ideas into code.\
-
-2.  **Supporters’ Collection** :medal::\
-    Another collection will be listed on our NFT marketplace. Purchasing these NFTs grants the owner the right to receive RSK airdrops—potentially on a monthly schedule and possibly lasting up to 10 years (details under discussion). \
-    If an NFT changes hands, the new owner inherits the right to future airdrops. \
-    We may also provide in-game benefits linked to these NFTs as our gaming ecosystem develops.\
 
 
-    _Please note that we plan a separate NFT collection on SolSea to help fund the project, but it won’t be part of the airdrop system described above._\
+RosikoCoin leverages **NFTs integrated with smart contracts** to automate token distributions and offer exclusive benefits to developers, supporters, and fans of the project. Here's an overview of the planned collections (see [Roadmap](../roadmap/roadmap-beta-version-2.10.md)):
 
-3. **Fans’ Edition** :angel::\
-   We’re considering a larger “drop edition” with a high number of identical NFTs, each tied to a third smart contract. We’re currently debating whether the reward should be periodic RSK airdrops (smaller than those from the supporters’ collection) or in-game benefits related to the upcoming game. \
-   This edition will be widely available so anyone can mint an NFT with associated perks until the supply is exhausted.
+### 🛠️ **DEVS Collection** :man\_technologist::woman\_technologist:
+
+Exclusive NFTs privately assigned to core developers.
+
+* Each NFT will be linked to a smart contract that enables RSK payments.
+* Payments may be delivered monthly or annually to the wallet holding the NFT.
+* These NFTs will be manually distributed as a form of ongoing compensation and recognition for development contributions.
+* All transactions will be publicly documented to ensure full transparency.
+
+### :star: **Supporters’ Collection**
+
+NFTs available for public purchase, enabling periodic RSK airdrops.
+
+* Holders will receive **monthly RSK airdrops** directly to the wallet associated with the NFT.
+* These NFTs will be available on **RSKSEA** (our upcoming NFT marketplace) or on other compatible platforms.
+* **Ownership is transferable**: if an NFT is sold, the new owner inherits the right to future airdrops.
+* We may also link **in-game perks** to these NFTs as the RosikoCoin gaming ecosystem evolves.
+
+_Please note that we plan a separate NFT collection on SolSea to help fund the project, but it won’t be part of the airdrop system described above._\
+
+
+### :sunflower: **Fans’ Edition**
+
+A larger, widely accessible collection for community engagement.
+
+* Features a **high number of identical NFTs**, available to mint or purchase until supply runs out.
+* Rewards will be **smaller compared to the Supporters’ Collection**, but may include:\
+  — **Micro RSK airdrops** (under evaluation)\
+  — **In-game benefits** (e.g. special items, early access)
+* We're still debating the most effective reward model (token-based, utility-based, or hybrid).
+* The goal is to keep it **accessible to everyone**, while still offering meaningful incentives for project supporters.
 
 ## BURN
 
