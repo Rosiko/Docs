@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 💎 Tokenomics (Beta Version 2.10)
 
 Below is an overview of RSK’s evolving tokenomics. Please note that these details are subject to change as development progresses.
@@ -34,7 +20,7 @@ Ongoing discussions among the development team may refine specific roles, distri
 **Current Supply:** 249,995,838 RSK\
 **Creator’s Current Holdings:**  164,849,109.41 RSK
 
-Raydium LP Token: [7uxDGXhMYyG3CW3jK1vRtzZtsf6ToQUtWKGAxEKA4HxA](https://solscan.io/account/7uxDGXhMYyG3CW3jK1vRtzZtsf6ToQUtWKGAxEKA4HxA)
+Raydium LP Token: [Ht7AZjYq87HRFTZhNpdC8ypqNFbujWpMK9n6477UU7pa](https://solscan.io/token/Ht7AZjYq87HRFTZhNpdC8ypqNFbujWpMK9n6477UU7pa)
 
 ## **Game Integration**
 
